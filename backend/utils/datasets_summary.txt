@@ -1,0 +1,42 @@
+DATASET ANALYSIS SUMMARY
+==================================================
+NOTE: Individual summaries shown for all datasets
+Overall calculations only include: Fake.csv and WELFake_Dataset.csv
+==================================================
+
+Dataset: Fake.csv (INCLUDED IN OVERALL)
+------------------------------
+Shape: 23481 rows × 4 columns
+Columns: title, text, subject, date
+Missing values: 0 (0.00%)
+Duplicate rows: 3
+Numeric columns: 0
+Categorical columns: 4
+
+Dataset: True.csv (INDIVIDUAL ONLY)
+------------------------------
+Shape: 21417 rows × 4 columns
+Columns: title, text, subject, date
+Missing values: 0 (0.00%)
+Duplicate rows: 206
+Numeric columns: 0
+Categorical columns: 4
+
+Dataset: bbc_news.csv (INDIVIDUAL ONLY)
+------------------------------
+Shape: 42115 rows × 5 columns
+Columns: title, pubDate, guid, link, description
+Missing values: 0 (0.00%)
+Duplicate rows: 0
+Numeric columns: 0
+Categorical columns: 5
+
+Dataset: WELFake_Dataset.csv (INCLUDED IN OVERALL)
+------------------------------
+Shape: 72134 rows × 4 columns
+Columns: Unnamed: 0, title, text, label
+Missing values: 597 (0.21%)
+Duplicate rows: 0
+Numeric columns: 2
+Categorical columns: 2
+

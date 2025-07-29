@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "total_datasets_analyzed": 4,
+    "datasets_in_calculations": 2,
+    "analysis_date": "2025-06-09T21:24:53.259055",
+    "note": "This summary only includes Fake.csv and WELFake_Dataset.csv",
+    "included_datasets": [
+      "Fake.csv",
+      "WELFake_Dataset.csv"
+    ]
+  },
+  "datasets_overview": {
+    "Fake.csv": {
+      "rows": 23481,
+      "columns": 4,
+      "missing_percentage": 0.0,
+      "duplicate_rows": 3
+    },
+    "WELFake_Dataset.csv": {
+      "rows": 72134,
+      "columns": 4,
+      "missing_percentage": 0.20690659051210247,
+      "duplicate_rows": 0
+    }
+  }
+}

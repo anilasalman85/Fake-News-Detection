@@ -1,0 +1,15 @@
+# Ignore frontend dependencies
+frontend/node_modules/
+
+# Ignore any node_modules folders
+**/node_modules/
+
+# Ignore CSV files anywhere
+*.csv
+
+# Optional: Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
