@@ -13,7 +13,7 @@ This system achieves an accuracy of 96.8% in classifying fake news using a power
 ## Key Features
 
 * **High Accuracy:** Achieves 96.8% accuracy with an AUC-ROC score of 0.9953  
-* **Real-Time Predictions:** Users receive instant classification results via a responsive React interface  
+* **Real-Time Predictions:** Users receive instant classification results via a responsive React interface   
 * **Ensemble Learning:** Utilizes a Voting Classifier with Logistic Regression, Random Forest, and XGBoost  
 * **Comprehensive Feature Engineering:** Includes TF-IDF, sentiment analysis, keyword detection, and more  
 * **REST API Backend:** Flask-based backend enabling smooth and scalable deployment  
