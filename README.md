@@ -64,6 +64,18 @@ This system achieves an accuracy of 96.8% in classifying fake news using a power
 
 ---
 
+## Tech Stack
+
+| Layer       | Technology Used                     |
+|-------------|--------------------------------------|
+| Frontend    | React.js                             |
+| Backend     | Flask (Python)                       |
+| Model Dev   | Google Colab / Jupyter Notebook      |
+| ML Models   | Logistic Regression, Random Forest, XGBoost |
+| Libraries   | Scikit-learn, XGBoost, Pandas, NLTK, VADER |
+| API Comm    | REST API via Flask                   |
+
+
 ## Model Architecture
 
 * **Ensemble Approach:** Voting Classifier  
